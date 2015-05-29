@@ -40,24 +40,25 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 2,816 / 6k
-      Points:                   213.16 pts
+##Code Rank: 2,631 / 6k
+      Points:                   244.676 pts
 
 
-##Code Eval Problems(6 Completed)
+##Code Eval Problems(67 Completed)
 
 ### Easy
 
-Solved 6 challenges  
+Solved 7 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
-      :----------------|--------------:|------------:|-----------:|---------:
+      :----------------|--------------:|------------:|-----------:|:---------
       Sum of Primes    |      36  ms   |	  4096 bytes|  34.933 pts|	  c++ 
       Reverse words	|        3  ms  |   17435 bytes|      34.809 pts|	  c++	
       Prime Palindrome  |     42  ms   |   4096 bytes	|34.923 pts|	  c++
       Fizz Buzz         |    131  ms  | 3891200 bytes  |    31.523 pts |   Python 2  
       Bit Positions     |      3  ms   |  10742 bytes  |    34.985 pts |   c++ 
       Multiplication Tables |  3  ms   |   4096 bytes   |   34.991 pts |   c++ 
+      Hidden Digits | 114 ms| 3935560 bytes | 31.516| Python 2
   
 
 
