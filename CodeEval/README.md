@@ -54,7 +54,7 @@ Solved 4 challenges
       2. Reverse words	         3  ms     17435 bytes      34.809 pts	  c++	
       3. Prime Palindrome       42  ms      4096 bytes	    34.923 pts	  c++
       4. Fizz Buzz             131  ms   3891200 bytes      31.523 pts    Python 2  
-  
+      4. Bit Positions           3  ms     10742 bytes      34.985 pts    c++ 
   
 
 
