@@ -50,11 +50,12 @@ problem.
 
 Solved 4 challenges
 
-      1. Sum of Primes          36  ms	    4096 bytes      34.933 pts	  c++
+      1. Sum of Primes          36  ms	  4096 bytes      34.933 pts	  c++
       2. Reverse words	         3  ms     17435 bytes      34.809 pts	  c++	
-      3. Prime Palindrome       42  ms      4096 bytes	    34.923 pts	  c++
+      3. Prime Palindrome       42  ms      4096 bytes	34.923 pts	  c++
       4. Fizz Buzz             131  ms   3891200 bytes      31.523 pts    Python 2  
-      4. Bit Positions           3  ms     10742 bytes      34.985 pts    c++ 
+      5. Bit Positions           3  ms     10742 bytes      34.985 pts    c++ 
+      6. Multiplication Tables   3  ms      4096 bytes      34.991 pts    c++ 
   
 
 
