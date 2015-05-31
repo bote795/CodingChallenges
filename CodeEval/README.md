@@ -44,11 +44,11 @@ problem.
       Points:                   377.620 pts
 
 
-##Code Eval Problems(9 Completed)
+##Code Eval Problems(10 Completed)
 
 ### Easy
 
-Solved 9 challenges  
+Solved 10 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
       :----------------|--------------:|------------:|-----------:|:---------
