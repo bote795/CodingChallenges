@@ -40,15 +40,15 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 2,471 / 6k
-      Points:                   275.592 pts
+##Code Rank: 2,161 / 6k
+      Points:                   342.634 pts
 
 
-##Code Eval Problems(8 Completed)
+##Code Eval Problems(9 Completed)
 
 ### Easy
 
-Solved 8 challenges  
+Solved 9 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
       :----------------|--------------:|------------:|-----------:|:---------
@@ -60,6 +60,7 @@ Solved 8 challenges
       Multiplication Tables |  3  ms   |   4096 bytes   |   34.991 pts |   c++ 
       Hidden Digits | 114 ms| 3935560 bytes | 31.516| Python 2
       Roller Coaster|115 ms | 4652048 bytes | 30.916 | Python 2
+      Swap Numbers|115 ms | 77 bytes | 34.861 | c++
   
 
 
