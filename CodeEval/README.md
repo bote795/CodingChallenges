@@ -40,8 +40,8 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 2,161 / 6k
-      Points:                   342.634 pts
+##Code Rank: 2,001 / 6k
+      Points:                   377.620 pts
 
 
 ##Code Eval Problems(9 Completed)
@@ -61,7 +61,7 @@ Solved 9 challenges
       Hidden Digits | 114 ms| 3935560 bytes | 31.516| Python 2
       Roller Coaster|115 ms | 4652048 bytes | 30.916 | Python 2
       Swap Numbers|115 ms | 77 bytes | 34.861 | c++
-  
+      Sum of Digits |3 ms | 8789 bytes| 34.987| c++
 
 
 
