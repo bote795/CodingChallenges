@@ -23,9 +23,9 @@ int main(int argc, char *argv[]) {
         {
             locale loc;
             string temp=line.substr(0,39);
-            if(isalpha(line[38],loc) || isalpha(line[39],loc)) // cut off is a word
+            if(isalpha(line[38],loc) && isalpha(line[39],loc)) // cut off is a word
             {
-                for (int i=39; isalpha(line[i],loc); i-- )  //remove characters
+                for (int i=38; isalpha(line[i],loc); i-- )  //remove characters
                 {
                     temp[i]=' ';
                 }
