@@ -40,15 +40,15 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 2,001 / 6k
-      Points:                   377.620 pts
+##Code Rank: 1,892 / 6k
+      Points:                   407.769 pts
 
 
-##Code Eval Problems(10 Completed)
+##Code Eval Problems(11 Completed)
 
 ### Easy
 
-Solved 10 challenges  
+Solved 11 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
       :----------------|--------------:|------------:|-----------:|:---------
@@ -62,6 +62,7 @@ Solved 10 challenges
       Roller Coaster|115 ms | 4652048 bytes | 30.916 | Python 2
       Swap Numbers|115 ms | 77 bytes | 34.861 | c++
       Sum of Digits |3 ms | 8789 bytes| 34.987| c++
+      Lowercase |226 ms | 5337251 bytes| 30.149| Javascript
 
 
 
