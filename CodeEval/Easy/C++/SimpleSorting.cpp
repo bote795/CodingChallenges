@@ -6,14 +6,13 @@
 #include <iomanip>      // std::setprecision
 #include <string>
 using namespace std;
-vector<int> readIn(string line)
+vector<float> readIn(string line)
 {
-    vector<double> tokens;
+    vector<float> tokens;
     istringstream is(line);
-    string token;
-    while (std::getline(is, token, ' ')) {
-        if (!token.empty())
-            tokens.push_back(stod(token));
+    float token;
+    while (is>>token) {
+            tokens.push_back(token);
     }
     return tokens;
 }
@@ -21,13 +20,15 @@ int main(int argc, char *argv[]) {
     ifstream stream(argv[1]);
     string line;
     while (getline(stream, line)) {
-        vector<double> list;
+        vector<float> list;
         list=readIn(line);
        sort(list.begin(), list.end());
        
        for(int x=0; x < list.size(); x++)
        {
-        cout<<setprecision(3)<<list[x]<<" ";
+        cout.precision(3);
+        cout.setf( ios::fixed, ios::floatfield ); // floatfield set to fixed
+        cout<<list[x]<<" ";
        }
        cout<<endl;
     }
