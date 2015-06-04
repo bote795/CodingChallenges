@@ -40,8 +40,8 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 1,780 / 6k
-      Points:                   442.730 pts
+##Code Rank: 1,686 / 6k
+      Points:                   474.278 pts
 
 
 ##Code Eval Problems(12 Completed)
@@ -64,6 +64,7 @@ Solved 12 challenges
       Sum of Digits |3 ms | 8789 bytes| 34.987| c++
       Lowercase |226 ms | 5337251 bytes| 30.149| Javascript
       Simple Sorting |6 ms | 32193 bytes| 34.961| c++
+      Sum Of Integers From File |107 ms | 3911426 bytes| 31.548| Python 2
 
 
 
