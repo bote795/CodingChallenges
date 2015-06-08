@@ -40,8 +40,8 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 1,686 / 6k
-      Points:                   474.278 pts
+##Code Rank: 1,534 / 6k
+      Points:                   528.168 pts
 
 
 ##Code Eval Problems(14 Completed)
