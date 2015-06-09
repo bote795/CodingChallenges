@@ -40,15 +40,15 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 1,534 / 6k
-      Points:                   528.168 pts
+##Code Rank: 1,459 / 6k
+      Points:                   559.620 pts
 
 
-##Code Eval Problems(14 Completed)
+##Code Eval Problems(15 Completed)
 
 ### Easy
 
-Solved 14 challenges  
+Solved 15 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
       :----------------|--------------:|------------:|-----------:|:---------
@@ -66,6 +66,7 @@ Solved 14 challenges
       Simple Sorting |6 ms | 32193 bytes| 34.961| c++
       Sum Of Integers From File |107 ms | 3911426 bytes| 31.548| Python 2
       Odd Numbers |3 ms | 4096 bytes| 34.991| c++
+      Unique Elements |114 ms | 4012502 bytes| 31.452| Python 2
 
 
 
