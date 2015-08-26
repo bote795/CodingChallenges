@@ -40,15 +40,15 @@ challenges are separated into the languages that were used to solve the
 
 problem. 
 
-##Code Rank: 1,593 / 6k
-      Points:                    496.186 pts
+##Code Rank: 1510 / 6k
+      Points:                    527.217 pts
 
 
-##Code Eval Problems(16 Completed)
+##Code Eval Problems(17 Completed)
 
 ### Easy
 
-Solved 16 challenges  
+Solved 17 challenges  
 
        Names           |     Time      | Memory      | Points     | language 
       :----------------|--------------:|------------:|-----------:|:---------
@@ -68,6 +68,7 @@ Solved 16 challenges
       Odd Numbers |3 ms | 4096 bytes| 34.991| c++
       Unique Elements |114 ms | 4012502 bytes| 31.452| Python 2
       Strings And Arrows |110 ms | 3926958 bytes| 31.530| Python 2
+      Clean Up The Words |113 ms | 4518743 bytes| 31.031| Python 2
 
 
 
